@@ -32,10 +32,9 @@
   <sonar.organization>mylandmarktechs</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
-	</properties>
+	<properties>
 -->
-	</dependencies>
-		
+	<dependencies>	
 		<dependency>
 			<groupId>org.json</groupId>
 			<artifactId>json</artifactId>
